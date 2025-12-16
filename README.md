@@ -1,4 +1,4 @@
-# Diagramatic Relation between two tables
+# Diagrammatic Relation between two tables
 
 This document shows how you can create diagramatic relation between two tables.
 
